@@ -11,6 +11,7 @@ import android.view.MenuItem;
 
 public class login extends AppCompatActivity {
 String a="Hellooooooooooooo";
+    String B="HI";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
